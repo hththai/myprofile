@@ -1,3 +1,5 @@
+@import '_content/Blazor.Bootstrap/Blazor.Bootstrap.bundle.scp.css';
+
 /* _content/profile/Components/Layout/MainLayout.razor.rz.scp.css */
 .page[b-un1evdby1k] {
     position: relative;

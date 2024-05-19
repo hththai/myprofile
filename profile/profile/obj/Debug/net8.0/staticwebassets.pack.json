@@ -9,8 +9,28 @@
       "PackagePath": "staticwebassets\\app.css"
     },
     {
+      "Id": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\profile\\wwwroot\\asset\\hypestudio.jpg",
+      "PackagePath": "staticwebassets\\asset\\hypestudio.jpg"
+    },
+    {
+      "Id": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\profile\\wwwroot\\asset\\logo-square.jpg",
+      "PackagePath": "staticwebassets\\asset\\logo-square.jpg"
+    },
+    {
       "Id": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\profile\\wwwroot\\asset\\profilepic.png",
       "PackagePath": "staticwebassets\\asset\\profilepic.png"
+    },
+    {
+      "Id": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\profile\\wwwroot\\asset\\qiba.jpg",
+      "PackagePath": "staticwebassets\\asset\\qiba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\profile\\wwwroot\\asset\\sdsu.webp",
+      "PackagePath": "staticwebassets\\asset\\sdsu.webp"
+    },
+    {
+      "Id": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\profile\\wwwroot\\asset\\utas.png",
+      "PackagePath": "staticwebassets\\asset\\utas.png"
     },
     {
       "Id": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\profile\\wwwroot\\bootstrap\\bootstrap.min.css",

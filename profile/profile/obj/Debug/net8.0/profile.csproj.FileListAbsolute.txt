@@ -29,3 +29,6 @@ C:\Users\huyth\Desktop\Learning\myprofile\profile\profile\obj\Debug\net8.0\profi
 C:\Users\huyth\Desktop\Learning\myprofile\profile\profile\obj\Debug\net8.0\profile.genruntimeconfig.cache
 C:\Users\huyth\Desktop\Learning\myprofile\profile\profile\obj\Debug\net8.0\ref\profile.dll
 C:\Users\huyth\Desktop\Learning\myprofile\profile\profile\obj\Debug\net8.0\scopedcss\Components\Pages\Career.razor.rz.scp.css
+C:\Users\huyth\Desktop\Learning\myprofile\profile\profile\bin\Debug\net8.0\BlazorBootstrap.dll
+C:\Users\huyth\Desktop\Learning\myprofile\profile\profile\obj\Debug\net8.0\profile.csproj.AssemblyReference.cache
+C:\Users\huyth\Desktop\Learning\myprofile\profile\profile\obj\Debug\net8.0\profile.csproj.Up2Date
