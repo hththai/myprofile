@@ -28,3 +28,4 @@ C:\Users\huyth\Desktop\Learning\myprofile\profile\profile\obj\Debug\net8.0\refin
 C:\Users\huyth\Desktop\Learning\myprofile\profile\profile\obj\Debug\net8.0\profile.pdb
 C:\Users\huyth\Desktop\Learning\myprofile\profile\profile\obj\Debug\net8.0\profile.genruntimeconfig.cache
 C:\Users\huyth\Desktop\Learning\myprofile\profile\profile\obj\Debug\net8.0\ref\profile.dll
+C:\Users\huyth\Desktop\Learning\myprofile\profile\profile\obj\Debug\net8.0\scopedcss\Components\Pages\Career.razor.rz.scp.css
