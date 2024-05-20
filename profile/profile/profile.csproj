@@ -5,12 +5,12 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Remove="Components\asset\**"/>
-    <Content Remove="Components\asset\**"/>
-    <EmbeddedResource Remove="Components\asset\**"/>
-    <None Remove="Components\asset\**"/>
+    <Compile Remove="Components\asset\**" />
+    <Content Remove="Components\asset\**" />
+    <EmbeddedResource Remove="Components\asset\**" />
+    <None Remove="Components\asset\**" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Blazor.Bootstrap" Version="2.2.1"/>
+    <PackageReference Include="Blazor.Bootstrap" Version="2.2.1" />
   </ItemGroup>
 </Project>

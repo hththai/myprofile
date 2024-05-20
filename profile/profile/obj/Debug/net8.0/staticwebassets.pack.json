@@ -33,14 +33,6 @@
       "PackagePath": "staticwebassets\\asset\\utas.png"
     },
     {
-      "Id": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\profile\\wwwroot\\bootstrap\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
-    },
-    {
-      "Id": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\profile\\wwwroot\\bootstrap\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
-    },
-    {
       "Id": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\profile\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
