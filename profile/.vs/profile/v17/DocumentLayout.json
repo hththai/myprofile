@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{29211A30-945E-41D4-A3A8-74A3BF0E3CF7}|profile\\profile.csproj|c:\\users\\huyth\\desktop\\learning\\myprofile\\profile\\profile\\components\\pages\\mycv.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29211A30-945E-41D4-A3A8-74A3BF0E3CF7}|profile\\profile.csproj|solutionrelative:profile\\components\\pages\\mycv.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{29211A30-945E-41D4-A3A8-74A3BF0E3CF7}|profile\\profile.csproj|c:\\users\\huyth\\desktop\\learning\\myprofile\\profile\\profile\\components\\pages\\timeline.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{29211A30-945E-41D4-A3A8-74A3BF0E3CF7}|profile\\profile.csproj|solutionrelative:profile\\components\\pages\\timeline.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29211A30-945E-41D4-A3A8-74A3BF0E3CF7}|profile\\profile.csproj|c:\\users\\huyth\\desktop\\learning\\myprofile\\profile\\profile\\components\\pages\\timeline.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{29211A30-945E-41D4-A3A8-74A3BF0E3CF7}|profile\\profile.csproj|solutionrelative:profile\\components\\pages\\timeline.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29211A30-945E-41D4-A3A8-74A3BF0E3CF7}|profile\\profile.csproj|c:\\users\\huyth\\desktop\\learning\\myprofile\\profile\\profile\\components\\pages\\career.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29211A30-945E-41D4-A3A8-74A3BF0E3CF7}|profile\\profile.csproj|solutionrelative:profile\\components\\pages\\career.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Timeline.razor.css",
+              "DocumentMoniker": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\profile\\Components\\Pages\\Timeline.razor.css",
+              "RelativeDocumentMoniker": "profile\\Components\\Pages\\Timeline.razor.css",
+              "ToolTip": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\profile\\Components\\Pages\\Timeline.razor.css",
+              "RelativeToolTip": "profile\\Components\\Pages\\Timeline.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-22T10:54:54.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Career.razor",
+              "DocumentMoniker": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\profile\\Components\\Pages\\Career.razor",
+              "RelativeDocumentMoniker": "profile\\Components\\Pages\\Career.razor",
+              "ToolTip": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\profile\\Components\\Pages\\Career.razor",
+              "RelativeToolTip": "profile\\Components\\Pages\\Career.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T10:50:23.762Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MyCv.razor",
+              "DocumentMoniker": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\profile\\Components\\Pages\\MyCv.razor",
+              "RelativeDocumentMoniker": "profile\\Components\\Pages\\MyCv.razor",
+              "ToolTip": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\profile\\Components\\Pages\\MyCv.razor",
+              "RelativeToolTip": "profile\\Components\\Pages\\MyCv.razor",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAswBQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T10:34:12.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Timeline.razor",
               "DocumentMoniker": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\profile\\Components\\Pages\\Timeline.razor",
               "RelativeDocumentMoniker": "profile\\Components\\Pages\\Timeline.razor",
               "ToolTip": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\profile\\Components\\Pages\\Timeline.razor",
               "RelativeToolTip": "profile\\Components\\Pages\\Timeline.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACgAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-22T01:22:39.523Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T01:22:39.523Z"
             }
           ]
         }
