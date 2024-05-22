@@ -3,40 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29211A30-945E-41D4-A3A8-74A3BF0E3CF7}|profile\\profile.csproj|c:\\users\\huyth\\desktop\\learning\\myprofile\\profile\\profile\\components\\pages\\career.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{29211A30-945E-41D4-A3A8-74A3BF0E3CF7}|profile\\profile.csproj|solutionrelative:profile\\components\\pages\\career.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29211A30-945E-41D4-A3A8-74A3BF0E3CF7}|profile\\profile.csproj|c:\\users\\huyth\\desktop\\learning\\myprofile\\profile\\profile\\components\\pages\\career.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{29211A30-945E-41D4-A3A8-74A3BF0E3CF7}|profile\\profile.csproj|solutionrelative:profile\\components\\pages\\career.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29211A30-945E-41D4-A3A8-74A3BF0E3CF7}|profile\\profile.csproj|c:\\users\\huyth\\desktop\\learning\\myprofile\\profile\\profile\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{29211A30-945E-41D4-A3A8-74A3BF0E3CF7}|profile\\profile.csproj|solutionrelative:profile\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29211A30-945E-41D4-A3A8-74A3BF0E3CF7}|profile\\profile.csproj|c:\\users\\huyth\\desktop\\learning\\myprofile\\profile\\profile\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{29211A30-945E-41D4-A3A8-74A3BF0E3CF7}|profile\\profile.csproj|solutionrelative:profile\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29211A30-945E-41D4-A3A8-74A3BF0E3CF7}|profile\\profile.csproj|c:\\users\\huyth\\desktop\\learning\\myprofile\\profile\\profile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29211A30-945E-41D4-A3A8-74A3BF0E3CF7}|profile\\profile.csproj|solutionrelative:profile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29211A30-945E-41D4-A3A8-74A3BF0E3CF7}|profile\\profile.csproj|c:\\users\\huyth\\desktop\\learning\\myprofile\\profile\\profile\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{29211A30-945E-41D4-A3A8-74A3BF0E3CF7}|profile\\profile.csproj|solutionrelative:profile\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29211A30-945E-41D4-A3A8-74A3BF0E3CF7}|profile\\profile.csproj|c:\\users\\huyth\\desktop\\learning\\myprofile\\profile\\profile\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{29211A30-945E-41D4-A3A8-74A3BF0E3CF7}|profile\\profile.csproj|solutionrelative:profile\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29211A30-945E-41D4-A3A8-74A3BF0E3CF7}|profile\\profile.csproj|c:\\users\\huyth\\desktop\\learning\\myprofile\\profile\\profile\\profile.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{29211A30-945E-41D4-A3A8-74A3BF0E3CF7}|profile\\profile.csproj|solutionrelative:profile\\profile.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29211A30-945E-41D4-A3A8-74A3BF0E3CF7}|profile\\profile.csproj|c:\\users\\huyth\\desktop\\learning\\myprofile\\profile\\profile\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{29211A30-945E-41D4-A3A8-74A3BF0E3CF7}|profile\\profile.csproj|solutionrelative:profile\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{29211A30-945E-41D4-A3A8-74A3BF0E3CF7}|profile\\profile.csproj|c:\\users\\huyth\\desktop\\learning\\myprofile\\profile\\profile\\components\\pages\\timeline.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29211A30-945E-41D4-A3A8-74A3BF0E3CF7}|profile\\profile.csproj|solutionrelative:profile\\components\\pages\\timeline.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,122 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Career.razor.css",
-              "DocumentMoniker": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\profile\\Components\\Pages\\Career.razor.css",
-              "RelativeDocumentMoniker": "profile\\Components\\Pages\\Career.razor.css",
-              "ToolTip": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\profile\\Components\\Pages\\Career.razor.css",
-              "RelativeToolTip": "profile\\Components\\Pages\\Career.razor.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-20T12:20:23.202Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Career.razor",
-              "DocumentMoniker": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\profile\\Components\\Pages\\Career.razor",
-              "RelativeDocumentMoniker": "profile\\Components\\Pages\\Career.razor",
-              "ToolTip": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\profile\\Components\\Pages\\Career.razor",
-              "RelativeToolTip": "profile\\Components\\Pages\\Career.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAB5AAAA",
+              "Title": "Timeline.razor",
+              "DocumentMoniker": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\profile\\Components\\Pages\\Timeline.razor",
+              "RelativeDocumentMoniker": "profile\\Components\\Pages\\Timeline.razor",
+              "ToolTip": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\profile\\Components\\Pages\\Timeline.razor",
+              "RelativeToolTip": "profile\\Components\\Pages\\Timeline.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T11:49:44.302Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "profile.csproj",
-              "DocumentMoniker": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\profile\\profile.csproj",
-              "RelativeDocumentMoniker": "profile\\profile.csproj",
-              "ToolTip": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\profile\\profile.csproj",
-              "RelativeToolTip": "profile\\profile.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-20T11:46:42.663Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\profile\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "profile\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\profile\\Properties\\launchSettings.json",
-              "RelativeToolTip": "profile\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAACYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-20T11:43:39.368Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\profile\\appsettings.json",
-              "RelativeDocumentMoniker": "profile\\appsettings.json",
-              "ToolTip": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\profile\\appsettings.json",
-              "RelativeToolTip": "profile\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-20T11:43:31.824Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\profile\\Program.cs",
-              "RelativeDocumentMoniker": "profile\\Program.cs",
-              "ToolTip": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\profile\\Program.cs",
-              "RelativeToolTip": "profile\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T11:42:26.613Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "App.razor",
-              "DocumentMoniker": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\profile\\Components\\App.razor",
-              "RelativeDocumentMoniker": "profile\\Components\\App.razor",
-              "ToolTip": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\profile\\Components\\App.razor",
-              "RelativeToolTip": "profile\\Components\\App.razor",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAAB8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T11:38:10.041Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_Imports.razor",
-              "DocumentMoniker": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\profile\\Components\\_Imports.razor",
-              "RelativeDocumentMoniker": "profile\\Components\\_Imports.razor",
-              "ToolTip": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\profile\\Components\\_Imports.razor",
-              "RelativeToolTip": "profile\\Components\\_Imports.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T11:39:09.922Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\profile\\Components\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "profile\\Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\profile\\Components\\Pages\\Home.razor",
-              "RelativeToolTip": "profile\\Components\\Pages\\Home.razor",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAAB8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-18T12:53:56.666Z",
+              "WhenOpened": "2024-05-22T01:22:39.523Z",
               "EditorCaption": ""
             }
           ]

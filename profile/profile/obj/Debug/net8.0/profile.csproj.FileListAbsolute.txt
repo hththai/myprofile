@@ -32,3 +32,4 @@ C:\Users\huyth\Desktop\Learning\myprofile\profile\profile\obj\Debug\net8.0\scope
 C:\Users\huyth\Desktop\Learning\myprofile\profile\profile\bin\Debug\net8.0\BlazorBootstrap.dll
 C:\Users\huyth\Desktop\Learning\myprofile\profile\profile\obj\Debug\net8.0\profile.csproj.AssemblyReference.cache
 C:\Users\huyth\Desktop\Learning\myprofile\profile\profile\obj\Debug\net8.0\profile.csproj.Up2Date
+C:\Users\huyth\Desktop\Learning\myprofile\profile\profile\obj\Debug\net8.0\scopedcss\Components\Pages\Timeline.razor.rz.scp.css

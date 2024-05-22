@@ -323,6 +323,8 @@ body[b-nytszqqmlg] {
     }
 }
 
+
+/* Modal css */
 .card[b-nytszqqmlg] {
     --c: #26c6da; /* the border color */
     --b: 3px; /* the border thickness*/
@@ -339,3 +341,8 @@ body[b-nytszqqmlg] {
     --_i: 100%;
     transition: .3s, background-size .3s .3s;
 }
+/* _content/profile/Components/Pages/Timeline.razor.rz.scp.css */
+.extra-info[b-7e5kd3oju8]{
+    margin: auto;
+}
+

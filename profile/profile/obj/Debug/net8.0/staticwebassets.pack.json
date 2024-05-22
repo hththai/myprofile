@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\app.css"
     },
     {
+      "Id": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\profile\\wwwroot\\asset\\documents\\cv.pdf",
+      "PackagePath": "staticwebassets\\asset\\documents\\cv.pdf"
+    },
+    {
       "Id": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\profile\\wwwroot\\asset\\hypestudio.jpg",
       "PackagePath": "staticwebassets\\asset\\hypestudio.jpg"
     },

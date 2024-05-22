@@ -30,6 +30,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/huyth/Desktop/Learning/myprofile/profile/profile/Components/Pages/MyCv.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xNeUN2LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/huyth/Desktop/Learning/myprofile/profile/profile/Components/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
@@ -53,3 +57,7 @@ build_metadata.AdditionalFiles.CssScope = b-ifvutywgmm
 [C:/Users/huyth/Desktop/Learning/myprofile/profile/profile/Components/Pages/Career.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDYXJlZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-nytszqqmlg
+
+[C:/Users/huyth/Desktop/Learning/myprofile/profile/profile/Components/Pages/Timeline.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUaW1lbGluZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-7e5kd3oju8

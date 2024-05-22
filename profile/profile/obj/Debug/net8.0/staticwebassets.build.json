@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "AstgTGiubjAqtwZXkBjZzdh1QC58YjYyadyojEotsNQ=",
+  "Hash": "vDwD9iWJwVorMP2jZznaVZIYfN8jJDHCImaz4BGdjsY=",
   "Source": "profile",
   "BasePath": "_content/profile",
   "Mode": "Default",
@@ -224,6 +224,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\profile\\wwwroot\\asset\\documents\\cv.pdf",
+      "SourceId": "profile",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\profile\\wwwroot\\",
+      "BasePath": "_content/profile",
+      "RelativePath": "asset/documents/cv.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\asset\\documents\\cv.pdf"
     },
     {
       "Identity": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\profile\\wwwroot\\asset\\hypestudio.jpg",

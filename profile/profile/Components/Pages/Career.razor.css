@@ -119,6 +119,8 @@ body {
     }
 }
 
+
+/* Modal css */
 .card {
     --c: #26c6da; /* the border color */
     --b: 3px; /* the border thickness*/
