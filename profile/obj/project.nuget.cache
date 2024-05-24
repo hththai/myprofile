@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "AF9OMOLkU+Y0up5fpKEmRB9ydjmfJWegYqs/1At5coFidiQb5kFXujh1XJs83qkCIXZuJbycpl3D3K35Ck6R6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\profile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\huyth\\.nuget\\packages\\blazor.bootstrap\\2.2.1\\blazor.bootstrap.2.2.1.nupkg.sha512",
+    "C:\\Users\\huyth\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.26\\microsoft.aspnetcore.authorization.6.0.26.nupkg.sha512",
+    "C:\\Users\\huyth\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.26\\microsoft.aspnetcore.components.6.0.26.nupkg.sha512",
+    "C:\\Users\\huyth\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\6.0.26\\microsoft.aspnetcore.components.analyzers.6.0.26.nupkg.sha512",
+    "C:\\Users\\huyth\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\6.0.26\\microsoft.aspnetcore.components.forms.6.0.26.nupkg.sha512",
+    "C:\\Users\\huyth\\.nuget\\packages\\microsoft.aspnetcore.components.web\\6.0.26\\microsoft.aspnetcore.components.web.6.0.26.nupkg.sha512",
+    "C:\\Users\\huyth\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.26\\microsoft.aspnetcore.metadata.6.0.26.nupkg.sha512",
+    "C:\\Users\\huyth\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.1\\microsoft.extensions.dependencyinjection.6.0.1.nupkg.sha512",
+    "C:\\Users\\huyth\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\huyth\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.4\\microsoft.extensions.logging.abstractions.6.0.4.nupkg.sha512",
+    "C:\\Users\\huyth\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\huyth\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\huyth\\.nuget\\packages\\microsoft.jsinterop\\6.0.26\\microsoft.jsinterop.6.0.26.nupkg.sha512",
+    "C:\\Users\\huyth\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512",
+    "C:\\Users\\huyth\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\profile.bundle.scp.css",
+      "PackagePath": "staticwebassets\\profile.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\wwwroot\\asset\\documents\\cv.pdf",
+      "PackagePath": "staticwebassets\\asset\\documents\\cv.pdf"
+    },
+    {
+      "Id": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\wwwroot\\asset\\hypestudio.jpg",
+      "PackagePath": "staticwebassets\\asset\\hypestudio.jpg"
+    },
+    {
+      "Id": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\wwwroot\\asset\\logo-square.jpg",
+      "PackagePath": "staticwebassets\\asset\\logo-square.jpg"
+    },
+    {
+      "Id": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\wwwroot\\asset\\profilepic.png",
+      "PackagePath": "staticwebassets\\asset\\profilepic.png"
+    },
+    {
+      "Id": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\wwwroot\\asset\\qiba.jpg",
+      "PackagePath": "staticwebassets\\asset\\qiba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\wwwroot\\asset\\sdsu.webp",
+      "PackagePath": "staticwebassets\\asset\\sdsu.webp"
+    },
+    {
+      "Id": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\wwwroot\\asset\\utas.png",
+      "PackagePath": "staticwebassets\\asset\\utas.png"
+    },
+    {
+      "Id": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\wwwroot\\profilepic.png",
+      "PackagePath": "staticwebassets\\profilepic.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.profile.props",
+      "PackagePath": "build\\profile.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.profile.props",
+      "PackagePath": "buildMultiTargeting\\profile.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.profile.props",
+      "PackagePath": "buildTransitive\\profile.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.profile.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
