@@ -47,4 +47,4 @@ jobs:
           context: .
           file: ./profile/Dockerfile
           push: true
-          tags: ${{ secrets.DOCKERHUB_USERNAME }}/profile:latest, ${{ secrets.DOCKERHUB_USERNAME }}/profile:${{ github.run_number }}
+          tags: ${{ secrets.DOCKERHUB_USERNAME }}/dockerfordotnetapi:latest, ${{ secrets.DOCKERHUB_USERNAME }}/dockerfordotnetapi:${{ github.run_number }}
