@@ -67,3 +67,4 @@ C:\Users\huyth\Desktop\Learning\myprofile\profile\obj\Debug\net8.0\refint\profil
 C:\Users\huyth\Desktop\Learning\myprofile\profile\obj\Debug\net8.0\profile.pdb
 C:\Users\huyth\Desktop\Learning\myprofile\profile\obj\Debug\net8.0\profile.genruntimeconfig.cache
 C:\Users\huyth\Desktop\Learning\myprofile\profile\obj\Debug\net8.0\ref\profile.dll
+C:\Users\huyth\Desktop\Learning\myprofile\profile\obj\Debug\net8.0\profile.sourcelink.json

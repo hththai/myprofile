@@ -1,0 +1,8 @@
+C:\Users\huyth\Desktop\Learning\myprofile\profile\obj\Docker\publish\profile.exe
+C:\Users\huyth\Desktop\Learning\myprofile\profile\obj\Docker\publish\appsettings.Development.json
+C:\Users\huyth\Desktop\Learning\myprofile\profile\obj\Docker\publish\appsettings.json
+C:\Users\huyth\Desktop\Learning\myprofile\profile\obj\Docker\publish\profile.dll
+C:\Users\huyth\Desktop\Learning\myprofile\profile\obj\Docker\publish\profile.deps.json
+C:\Users\huyth\Desktop\Learning\myprofile\profile\obj\Docker\publish\profile.runtimeconfig.json
+C:\Users\huyth\Desktop\Learning\myprofile\profile\obj\Docker\publish\profile.pdb
+C:\Users\huyth\Desktop\Learning\myprofile\profile\obj\Docker\publish\BlazorBootstrap.dll

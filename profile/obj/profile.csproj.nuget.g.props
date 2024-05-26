@@ -13,6 +13,10 @@
     <SourceRoot Include="C:\Users\huyth\.nuget\packages\" />
   </ItemGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)microsoft.visualstudio.azure.containers.tools.targets\1.19.6\build\Microsoft.VisualStudio.Azure.Containers.Tools.Targets.props" Condition="Exists('$(NuGetPackageRoot)microsoft.visualstudio.azure.containers.tools.targets\1.19.6\build\Microsoft.VisualStudio.Azure.Containers.Tools.Targets.props')" />
     <Import Project="$(NuGetPackageRoot)blazor.bootstrap\2.2.1\buildTransitive\Blazor.Bootstrap.props" Condition="Exists('$(NuGetPackageRoot)blazor.bootstrap\2.2.1\buildTransitive\Blazor.Bootstrap.props')" />
   </ImportGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgMicrosoft_VisualStudio_Azure_Containers_Tools_Targets Condition=" '$(PkgMicrosoft_VisualStudio_Azure_Containers_Tools_Targets)' == '' ">C:\Users\huyth\.nuget\packages\microsoft.visualstudio.azure.containers.tools.targets\1.19.6</PkgMicrosoft_VisualStudio_Azure_Containers_Tools_Targets>
+  </PropertyGroup>
 </Project>

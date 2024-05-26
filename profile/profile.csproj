@@ -3,6 +3,8 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>94d60b44-6c05-4076-8d03-2f2c1d5877f1</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
   </PropertyGroup>
   <ItemGroup>
     <Compile Remove="Components\asset\**" />
@@ -12,5 +14,6 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Blazor.Bootstrap" Version="2.2.1" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.19.6" />
   </ItemGroup>
 </Project>

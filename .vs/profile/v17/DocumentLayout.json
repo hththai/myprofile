@@ -1,12 +1,156 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29211A30-945E-41D4-A3A8-74A3BF0E3CF7}|profile\\profile.csproj|c:\\users\\huyth\\desktop\\learning\\myprofile\\profile\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{29211A30-945E-41D4-A3A8-74A3BF0E3CF7}|profile\\profile.csproj|solutionrelative:profile\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29211A30-945E-41D4-A3A8-74A3BF0E3CF7}|profile\\profile.csproj|c:\\users\\huyth\\desktop\\learning\\myprofile\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{29211A30-945E-41D4-A3A8-74A3BF0E3CF7}|profile\\profile.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29211A30-945E-41D4-A3A8-74A3BF0E3CF7}|profile\\profile.csproj|c:\\users\\huyth\\desktop\\learning\\myprofile\\profile\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29211A30-945E-41D4-A3A8-74A3BF0E3CF7}|profile\\profile.csproj|solutionrelative:profile\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29211A30-945E-41D4-A3A8-74A3BF0E3CF7}|profile\\profile.csproj|c:\\users\\huyth\\desktop\\learning\\myprofile\\profile\\properties\\publishprofiles\\registry.hub.docker.com_hththai.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{29211A30-945E-41D4-A3A8-74A3BF0E3CF7}|profile\\profile.csproj|solutionrelative:profile\\properties\\publishprofiles\\registry.hub.docker.com_hththai.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29211A30-945E-41D4-A3A8-74A3BF0E3CF7}|profile\\profile.csproj|c:\\users\\huyth\\desktop\\learning\\myprofile\\profile\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29211A30-945E-41D4-A3A8-74A3BF0E3CF7}|profile\\profile.csproj|solutionrelative:profile\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29211A30-945E-41D4-A3A8-74A3BF0E3CF7}|profile\\profile.csproj|c:\\users\\huyth\\desktop\\learning\\myprofile\\profile\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29211A30-945E-41D4-A3A8-74A3BF0E3CF7}|profile\\profile.csproj|solutionrelative:profile\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29211A30-945E-41D4-A3A8-74A3BF0E3CF7}|profile\\profile.csproj|c:\\users\\huyth\\desktop\\learning\\myprofile\\profile\\profile.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{29211A30-945E-41D4-A3A8-74A3BF0E3CF7}|profile\\profile.csproj|solutionrelative:profile\\profile.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29211A30-945E-41D4-A3A8-74A3BF0E3CF7}|profile\\profile.csproj|c:\\users\\huyth\\desktop\\learning\\myprofile\\profile\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29211A30-945E-41D4-A3A8-74A3BF0E3CF7}|profile\\profile.csproj|solutionrelative:profile\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "profile\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\Properties\\launchSettings.json",
+              "RelativeToolTip": "profile\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-26T05:45:36.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "registry.hub.docker.com_hththai.pubxml",
+              "DocumentMoniker": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\Properties\\PublishProfiles\\registry.hub.docker.com_hththai.pubxml",
+              "RelativeDocumentMoniker": "profile\\Properties\\PublishProfiles\\registry.hub.docker.com_hththai.pubxml",
+              "ToolTip": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\Properties\\PublishProfiles\\registry.hub.docker.com_hththai.pubxml",
+              "RelativeToolTip": "profile\\Properties\\PublishProfiles\\registry.hub.docker.com_hththai.pubxml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-05-26T05:45:30.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "profile\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\Components\\Routes.razor",
+              "RelativeToolTip": "profile\\Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T05:45:23.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "profile",
+              "DocumentMoniker": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\profile.csproj",
+              "RelativeDocumentMoniker": "profile\\profile.csproj",
+              "ToolTip": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\profile.csproj",
+              "RelativeToolTip": "profile\\profile.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-26T05:42:55.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-26T05:42:49.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "profile\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\appsettings.Development.json",
+              "RelativeToolTip": "profile\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-26T05:42:47.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\Dockerfile",
+              "RelativeDocumentMoniker": "profile\\Dockerfile",
+              "ToolTip": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\Dockerfile",
+              "RelativeToolTip": "profile\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-26T03:04:33.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\appsettings.json",
+              "RelativeDocumentMoniker": "profile\\appsettings.json",
+              "ToolTip": "C:\\Users\\huyth\\Desktop\\Learning\\myprofile\\profile\\appsettings.json",
+              "RelativeToolTip": "profile\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-26T03:04:31.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
